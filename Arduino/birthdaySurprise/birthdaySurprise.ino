@@ -1,3 +1,10 @@
+/*
+ * As soon as the motion is detected, "Happy Birthday to you" tone is played.
+ * If no motion identifed then no tone is played.
+ * 
+ * Author: Anuj Jain
+ * @ianuj03
+ */
 #define NOTE_C4 262
 #define NOTE_D4 294
 #define NOTE_E4 330
