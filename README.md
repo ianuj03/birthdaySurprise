@@ -10,7 +10,7 @@ Arduino Board* | 1
 Buzzer | 1
 PIR| 1
 Jumper Wire| 5
-BreadBoard | 1 (optional)
+BreadBoard | 1
 
 *Any Board will work.
 ### Connection:
