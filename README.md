@@ -6,11 +6,13 @@ Through PIR sensor motion is detected. And depending upon that the birthday song
 ### Components:
 Name   | Quantity
 -------|---------
-PIR    | 1
+Arduino Board* | 1
 Buzzer | 1
-Arduino UNO | 1
+PIR| 1
 Jumper Wire| 5
 BreadBoard | 1 (optional)
+
+*Any Board will work.
 ### Connection:
 ```
 PIR:
